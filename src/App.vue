@@ -12,7 +12,7 @@
 </template>
 
 <script>
-    import ServerList from './ServerList.vue';
+    import ServerList from './components/Server/ServerList.vue';
     export default {
         components: {
             'server-list': ServerList
